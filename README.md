@@ -16,6 +16,12 @@ Resources for the CyVerse Workshop at US-RSE25
 
 <a href="https://de.cyverse.org/instantlaunch/be2c9a36-73b6-11f0-aba3-008cfa5ae621" target="_blank" rel="noopener noreferrer"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a>
 
+| Field | Value |
+| ----- | ----- |
+| API URL | https://llm-api.cyverse.ai/v1 |
+| API Key | sk-RhqGpnwy4sdsUtBIyTlggA |
+| Model | llama-3.3-70b-instruct-quantized |
+
 ## Miscellaneous Links
 
 - [Cline Plug-In][2]
