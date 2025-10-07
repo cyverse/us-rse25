@@ -2,6 +2,10 @@
 
 Resources for the CyVerse Workshop at US-RSE25
 
+## Sign Up Sheet
+
+https://docs.google.com/spreadsheets/d/1R2wH2JHNGIB-W_43bI5TvPQEP_NkMH2GpM7CY43Af28/edit?gid=1572948060#gid=1572948060
+
 ## Example Source Links
 
 - [Bird Audio ID Notebooks][1]
